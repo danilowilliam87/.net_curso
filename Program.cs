@@ -10,7 +10,7 @@ namespace ConsoleApplicationTreino
     {
         static void Main(string[] args)
         {
-            
+            //COMENTÁRIO ALEATÓRIO
             string[] valor = Console.ReadLine().Split(' ');
             int linhas = int.Parse(valor[0]);
             int colunas = int.Parse(valor[1]);
