@@ -1,0 +1,9 @@
+c:\users\d.dos.reis.socorro\documents\visual studio 2015\Projects\ConsoleApplicationTreino\bin\Debug\ConsoleApplicationTreino.exe.config
+c:\users\d.dos.reis.socorro\documents\visual studio 2015\Projects\ConsoleApplicationTreino\bin\Debug\ConsoleApplicationTreino.exe
+c:\users\d.dos.reis.socorro\documents\visual studio 2015\Projects\ConsoleApplicationTreino\bin\Debug\ConsoleApplicationTreino.pdb
+c:\users\d.dos.reis.socorro\documents\visual studio 2015\Projects\ConsoleApplicationTreino\obj\Debug\ConsoleApplicationTreino.csprojResolveAssemblyReference.cache
+c:\users\d.dos.reis.socorro\documents\visual studio 2015\Projects\ConsoleApplicationTreino\obj\Debug\ConsoleApplicationTreino.exe
+c:\users\d.dos.reis.socorro\documents\visual studio 2015\Projects\ConsoleApplicationTreino\obj\Debug\ConsoleApplicationTreino.pdb
+C:\Users\d.dos.reis.socorro\Documents\projetos_ponto_net\ConsoleApplicationTreino\bin\Debug\ConsoleApplicationTreino.exe.config
+C:\Users\d.dos.reis.socorro\Documents\projetos_ponto_net\ConsoleApplicationTreino\obj\Debug\ConsoleApplicationTreino.exe
+C:\Users\d.dos.reis.socorro\Documents\projetos_ponto_net\ConsoleApplicationTreino\obj\Debug\ConsoleApplicationTreino.pdb
